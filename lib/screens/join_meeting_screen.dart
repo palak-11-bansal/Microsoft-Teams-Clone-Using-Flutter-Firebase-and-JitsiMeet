@@ -114,15 +114,7 @@ class _JoinMeetingScreenState extends State<JoinMeetingScreen> {
               SizedBox(
                 height: 10,
               ),
-              // TextFormField(
-              //   controller: _controller,
-              //   style: montserratStyle(20),
-              //   decoration: InputDecoration(
-              //     border: OutlineInputBorder(),
-              //     labelText: "Username(this will be visible in the meeting)",
-              //     labelStyle: ralewayStyle(15),
-              //   ),
-              // ),
+       
               SizedBox(
                 height: 16,
               ),
@@ -156,15 +148,7 @@ class _JoinMeetingScreenState extends State<JoinMeetingScreen> {
               SizedBox(
                 height: 30,
               ),
-              // Text(
-              //   "You can change these settings in your meeting when you join",
-              //   style: ralewayStyle(15),
-              //   textAlign: TextAlign.center,
-              // ),
-              // Divider(
-              //   height: 48,
-              //   thickness: 2.0,
-              // ),
+     
               SizedBox(
                 height: 100,
               ),
