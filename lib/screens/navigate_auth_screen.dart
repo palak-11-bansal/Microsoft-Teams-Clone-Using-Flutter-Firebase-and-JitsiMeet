@@ -52,10 +52,7 @@ class _NavigateAuthScreenState extends State<NavigateAuthScreen> {
                   SizedBox(
                     height: 150,
                   ),
-                  // Center(child: Text("click here to", style: TextStyle(color: Colors.white),
-                  // ),
-
-                  // ),
+                 
                   InkWell(
                     onTap: () => Navigator.of(context).push(
                         MaterialPageRoute(builder: (ctx) => LoginScreen())),
