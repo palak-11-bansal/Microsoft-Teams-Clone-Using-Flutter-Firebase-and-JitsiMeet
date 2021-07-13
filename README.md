@@ -1,7 +1,11 @@
  ### Description
- Developed a fully functional Videoconferencing app using `Flutter` (Dart Programming Language) with `Firebase Firestore` as backend and integrated `JitsiMeet` for Video Meeting SDK.
+ Developed a fully functional Videoconferencing  Mobile application using `Flutter` (Dart Programming Language) with `Firebase Firestore` as backend and integrated `JitsiMeet` for Video Meeting SDK.
  
- Path: `lib\screens` : The files in this folder contain code to all the screens in the app.
+  Path: `lib\screens` : The files in this folder contain code to all the screens in the app.
+ 
+ Link to APK:  https://drive.google.com/file/d/1AwUTZ2Of96BIEkOpIJvadRdeh4TRs35z/view?usp=sharing  (Please install only in Android Smartphone)
+ 
+
  
 ### Key Features
 * User authentication
